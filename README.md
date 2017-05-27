@@ -1,8 +1,4 @@
 # Dynamic_Pricing
-Data and code for the London case study application in the paper "Economic-engineering utility-scale assessment of smart-meter-enabled dynamic pricing" by Rouge et al. (submitted to Journal of Water Resources Planning and Management)
+Data and code for the London case study application in the paper "Economic-engineering utility-scale assessment of smart-meter-enabled dynamic pricing" by C. Rouge, J. Harou, M. Pulido-Velazquez, E.S. Matrosov, P. Garrone, R. Marzano, A. Lopez-Nicolas, A. Castelletti and A.-E. Rizzoli, submitted to Journal of Water Resources Planning and Management.
 
-All the data on peak pricing, including sensitivity analysis, is available on "Peak_pricing.xlsx"
-
-For scarcity pricing:
-=> Data from the IRAS run available on "IRASresults.xlsx"
-=> Postprocessing Matlab code, with "MAIN.m" as the root routine, explanation on other Matlab routines found in "MAIN.m"
+There are 2 sub-folders, one for the "Peak pricing" part of the study and one for the "Scarcity pricing" part. Each has its own README detailing its contents.
